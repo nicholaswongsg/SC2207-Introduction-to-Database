@@ -125,7 +125,8 @@ WHERE t1.total_quantity < t2.total_quantity AND t2.total_quantity < t3.total_qua
 
 
 /*Q10*/
-/* repeated customers for all bookstore that purchased at least 3 in 2022*/ WITH RepeatedCustomers AS (
+/* repeated customers for all bookstore that purchased at least 3 in 2022*/
+WITH RepeatedCustomers AS (
 SELECT
 customerID,
 COUNT(*) AS num_orders
