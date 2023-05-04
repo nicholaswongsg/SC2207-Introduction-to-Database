@@ -13,3 +13,17 @@
   <li>Bookstore have to fill in priceMemo - reason for price changes (eg. CNY Promo) and the price changes validity (start of promo to end of promo).</li>
   <li>Each order has its own deliveryDate. Each order can have several deliveryDates.</li>
 </ul>  
+
+<img src="img/Q1.png" alt="Question">
+<img src="img/Q2.png" alt="Question">
+<img src="img/Q3.png" alt="Question">
+<img src="img/Q4.png" alt="Question">
+<img src="img/Q5.png" alt="Question">
+<img src="img/Q6.png" alt="Question">
+<img src="img/Q7.png" alt="Question">
+<img src="img/Q8.png" alt="Question">
+<img src="img/Q9.png" alt="Question">
+<img src="img/Q10.png" alt="Question">
+<img src="img/Bonus1.png" alt="Question">
+<img src="img/Bonus2.png" alt="Question">
+<img src="img/Bonus3.png" alt="Question">
