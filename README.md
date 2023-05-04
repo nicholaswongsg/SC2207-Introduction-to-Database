@@ -1,7 +1,6 @@
 # SC2207-Introduction-to-Database
 
 # About
-This is our Mini Project for SC1015 Intro to Data Science & Artificial Intelligence. We have selected a Telco Churn Dataset from Kaggle. Our motivation for this project is to find out which attributes affect churn rate (in a telco) and how can we predict churning customers and improve customer retention.
 
 <img src="img/er.png" alt="ER Diagram">
 
